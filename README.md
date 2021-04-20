@@ -1,12 +1,9 @@
 # quiz_app
 
-A new Flutter project.
-
+An exercise app written in Dart from scratch.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Links to Flutter documentation
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
